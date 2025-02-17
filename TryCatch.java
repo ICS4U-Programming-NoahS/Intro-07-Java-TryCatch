@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
-* The VolSphere program asks the user to enter a radius,
+* The Try Catch program asks the user to enter a radius,
 * then calculates and displays the sphere's volume with the given radius.
 * It also includes a try catch to catch invalid input.
 *
